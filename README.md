@@ -1,5 +1,7 @@
 # Smart contract of "Up or down" game
 
+[![hardhatBuild](https://github.com/YAY-Games/up-or-down-contracts/actions/workflows/hardhatBuild.yaml/badge.svg)](https://github.com/YAY-Games/up-or-down-contracts/actions/workflows/hardhatBuild.yaml)
+
 - Language: Solidity v0.6.12
 
 - Project framework: hardhat + truffle / web3
