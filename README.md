@@ -40,7 +40,13 @@ npm run lint
 
 1. Edit network in ```hardhat.config.js``` ([docs](https://hardhat.org/config/))
 
-2. Run command:
+2. Setup environment variables:
+```
+cp .env.example .env
+// then edit .env
+```
+
+3. Run command:
 ```
 npx hardhat run scripts/deploy-script.js --network <network name>
 ```
