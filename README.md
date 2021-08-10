@@ -1,8 +1,4 @@
-# up-or-down-contract
-
-Smart contract of "Up or down" game
-
-**Smart contract for staking native tokens**
+# Smart contract of "Up or down" game
 
 - Language: Solidity v0.6.12
 
@@ -14,7 +10,7 @@ Smart contract of "Up or down" game
 
 ### Deployed
 
-- Binance Smart Chain Mainnet: ```0x95e0ad62072b5a9d35e79f6c9f777a5e0a7a96d0``` ([link](https://bscscan.com/address/0x95e0ad62072b5a9d35e79f6c9f777a5e0a7a96d0)
+- Binance Smart Chain Mainnet: ```0x95e0ad62072b5a9d35e79f6c9f777a5e0a7a96d0``` ([link](https://bscscan.com/address/0x95e0ad62072b5a9d35e79f6c9f777a5e0a7a96d0))
 
 ## Installation & Usage
 
