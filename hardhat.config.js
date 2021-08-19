@@ -17,14 +17,14 @@ task("accounts", "Prints accounts", async (_, { web3 }) => {
 
 module.exports = {
   // defaultNetwork: "hardhat",
-  // networks: {
-  //   hardhat: {
-  //   },
-  //   // bsc: {
-  //   //   url: getEnv('RPC_URL'),
-  //   //   accounts: [getEnv('PRIVATE_KEY')]
-  //   // }
-  // },
+  networks: {
+    hardhat: {
+    },
+    // production: {
+    //   url: getEnv('RPC_URL'),
+    //   accounts: [getEnv('PRIVATE_KEY')]
+    // }
+  },
   solidity: {
     version: "0.6.12",
     settings: {
